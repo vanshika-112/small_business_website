@@ -3,7 +3,7 @@ body{
 }
 .landing-page{
     display: flex;
-    justify-content: center;
+    justify-content: center; /* horizontally or row*/
     align-items: center;
 }
 .logo, .content{
@@ -12,6 +12,13 @@ body{
 .button{
     display: flex;
     justify-content: center;  
+}
+button{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 15px;
+    border-color: white;
+    background-color: white;
 }
 p{
   font-size: 56px;
