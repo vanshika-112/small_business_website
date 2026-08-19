@@ -1,0 +1,18 @@
+body{
+    background-color: #d6befa;
+}
+.landing-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo, .content{
+    display:flex;
+}
+.button{
+    display: flex;
+    justify-content: center;  
+}
+p{
+  font-size: 56px;
+}
